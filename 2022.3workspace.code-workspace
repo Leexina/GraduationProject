@@ -1,0 +1,42 @@
+{
+    "folders": [
+		{
+			"name": "Alien_invasion",
+			"path": "D:\\Python\\Python project\\Alien_invasion"
+		},
+		{
+			"name": "VS project",
+			"path": "D:\\Python\\Python project\\VS project"
+		},
+		{
+			"name": "py project",
+			"path": "D:\\Python\\Python project\\py project"
+		},
+		{
+			"path": "D:\\Download\\pytorch学习"
+		},
+		{
+			"path": "D:\\Python\\Python project\\OpenCV"
+		},
+		{
+			"path": "D:\\Python\\Python project\\mask"
+		}
+	],
+	"settings": {
+		"commentTranslate.multiLineMerge": true,
+		"commentTranslate.hover.enabled": true
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Python: 当前文件",
+				"type": "python",
+				"request": "launch",
+				"program": "${file}",
+				"console": "integratedTerminal",
+				"justMyCode": true
+			}
+		]
+	}
+}
