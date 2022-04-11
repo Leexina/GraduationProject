@@ -2,27 +2,31 @@
     "folders": [
 		{
 			"name": "Alien_invasion",
-			"path": "D:\\Python\\Python project\\Alien_invasion"
+			"path": "D:\\Python\\Python_project\\Alien_invasion"
 		},
 		{
 			"name": "VS project",
-			"path": "D:\\Python\\Python project\\VS project"
+			"path": "D:\\Python\\Python_project\\VS project"
 		},
 		{
 			"name": "py project",
-			"path": "D:\\Python\\Python project\\py project"
+			"path": "D:\\Python\\Python_project\\py project"
 		},
 		{
+			"name":"pytorch学习",
 			"path": "D:\\Download\\pytorch学习"
 		},
 		{
-			"path": "D:\\Python\\Python project\\OpenCV"
+			"name":"OpenCV",
+			"path": "D:\\Python\\Python_project\\OpenCV"
 		},
 		{
-			"path": "D:\\Python\\Python project\\GraduationProject"
-		}
+			"name":"GraduationProject",
+			"path": "D:\\Python\\Python_project\\GraduationProject"
+		},
 		{
-			"path": "D:\\Python\\Python project\\TestModel"
+			"name":"TestModel",
+			"path": "D:\\Python\\Python_project\\TestModel"
 		}
 	],
 	"settings": {
